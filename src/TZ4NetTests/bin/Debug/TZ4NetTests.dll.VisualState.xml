@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1082]C:\Dev\tz4netv3-2018d\src\TZ4NetTests\bin\Debug\TZ4NetTests.dll</TopNode>
+  <SelectedNode>[0-1030]TZ4NetTests.OlsonTimeZoneFixture</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1082]C:\Dev\tz4netv3-2018d\src\TZ4NetTests\bin\Debug\TZ4NetTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1083]TZ4NetTests" Expanded="true" />
+    <Node UniqueName="[0-1030]TZ4NetTests.OlsonTimeZoneFixture" Expanded="true" />
+    <Node UniqueName="[0-1000]TZ4NetTests.ZoneInfoFixture" Expanded="true" />
+  </Nodes>
+</VisualState>

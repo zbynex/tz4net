@@ -1,0 +1,53 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastOpenVersion>7.10.3077</LastOpenVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ReferencePath>C:\Documents and Settings\Zbynio\My Documents\Visual Studio Projects\tz4netv3-2008h\lib\nunit\bin\;C:\Dev\tz4netv3-2008i\lib\nunit\bin\;C:\Documents and Settings\Zbynio\My Documents\Visual Studio Projects\tz4netv3-2009a\lib\nunit\bin\;C:\dev\tz4netv3-2009f\lib\nunit\bin\;C:\Dev\tz4netv3-2009i\lib\nunit\bin\;C:\Dev\tz4netv3-2009n\lib\nunit\bin\;C:\Dev\tz4netv3-2010b\lib\nunit\bin\;C:\Dev\tz4netv3-2010f\lib\nunit\bin\;C:\Dev\tz4netv3-2010i\lib\nunit\bin\;C:\Dev\tz4netv3-2010j\lib\nunit\bin\;C:\Dev\tz4netv3-2010k\lib\nunit\bin\;C:\Dev\tz4netv3-2010l\lib\nunit\bin\;C:\Dev\tz4netv3-2010m\lib\nunit\bin\;C:\Dev\tz4netv3-2010o\lib\nunit\bin\;C:\Dev\tz4netv3-2011d\lib\nunit\bin\;C:\Dev\tz4netv3-2011g\lib\nunit\bin\;C:\Dev\tz4netv3-2011h\lib\nunit\bin\;C:\Dev\tz4netv3-2011m\lib\nunit\bin\</ReferencePath>
+    <CopyProjectDestinationFolder>
+    </CopyProjectDestinationFolder>
+    <CopyProjectUncPath>
+    </CopyProjectUncPath>
+    <CopyProjectOption>0</CopyProjectOption>
+    <ProjectView>ProjectFiles</ProjectView>
+    <ProjectTrust>0</ProjectTrust>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Program</StartAction>
+    <StartArguments>TZ4NetTests.dll</StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>C:\Dev\tz4netv3-2015g\tz4netv3-2015g\lib\NUnit\bin\nunit.exe</StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>false</StartWithIE>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <EnableASPDebugging>false</EnableASPDebugging>
+    <EnableASPXDebugging>false</EnableASPXDebugging>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+    <RemoteDebugMachine>
+    </RemoteDebugMachine>
+    <StartAction>Program</StartAction>
+    <StartArguments>TZ4NetTests.dll</StartArguments>
+    <StartPage>
+    </StartPage>
+    <StartProgram>C:\Dev\tz4netv3-2015g\tz4netv3-2015g\lib\NUnit\bin\nunit.exe</StartProgram>
+    <StartURL>
+    </StartURL>
+    <StartWorkingDirectory>
+    </StartWorkingDirectory>
+    <StartWithIE>false</StartWithIE>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Dev\tz4netv3-2018d\src\TZ4NetTests\bin\Debug\TZ4NetTests.dll" total="47" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2018-04-23" time="15:58:49">
+  <environment nunit-version="2.5.7.10213" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Dev\tz4netv3-2018d\src\TZ4NetTests\bin\Debug" machine-name="EUDEVPC016" user="Zbigniew.Babiej" user-domain="MARKIT" />
+  <culture-info current-culture="en-GB" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Dev\tz4netv3-2018d\src\TZ4NetTests\bin\Debug\TZ4NetTests.dll" executed="True" result="Success" success="True" time="2.911" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="TZ4NetTests" executed="True" result="Success" success="True" time="2.905" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="OlsonTimeZoneFixture" executed="True" result="Success" success="True" time="2.903" asserts="0">
+            <results>
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AbbreviationOfAllInstances" executed="True" result="Success" success="True" time="0.673" asserts="594" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllAbbreviations" executed="True" result="Success" success="True" time="0.254" asserts="22" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllAliases" executed="True" result="Success" success="True" time="0.072" asserts="57" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllDaylightChangesOfAllTimeZones" executed="True" result="Success" success="True" time="0.363" asserts="0" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllForeignAliases" executed="True" result="Success" success="True" time="0.004" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllMilitaryLetters" executed="True" result="Success" success="True" time="0.006" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllMilitaryNames" executed="True" result="Success" success="True" time="0.004" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllNames" executed="True" result="Success" success="True" time="0.001" asserts="6" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllPrimaryAbbreviations" executed="True" result="Success" success="True" time="0.007" asserts="22" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllPrimaryNames" executed="True" result="Success" success="True" time="0.005" asserts="35" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllRegistryDisplayNames" executed="True" result="Success" success="True" time="0.106" asserts="316" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllWin32Ids" executed="True" result="Success" success="True" time="0.003" asserts="21" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.AllWin32Names" executed="True" result="Success" success="True" time="0.002" asserts="15" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.CheckBoundaryTimesInUtc" executed="True" result="Success" success="True" time="0.002" asserts="8" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.CheckTimesOfEuropeWarsaw1915And1916Transitions" executed="True" result="Success" success="True" time="0.001" asserts="10" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.CheckTimesOfEuropeWarsaw2006Transitions" executed="True" result="Success" success="True" time="0.001" asserts="9" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.ConvertEuropeWarsaw19921024111500ToAmericaChicago" executed="True" result="Success" success="True" time="0.002" asserts="3" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.ConvertUtc20050317151515ToEuropeAmsterdam" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.ConvertUtc20050805141148ToEuropeAmsterdam" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.ConvertUtc20060317131313ToAmericaNewYork" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.ConvertUtc20070317131313ToAmericaNewYork" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.CurrentTimeZone" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.DaylightChangesOfEuropeWarsawIn2006" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.FindNameFromAlias" executed="True" result="Success" success="True" time="0.002" asserts="171" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstance" executed="True" result="Success" success="True" time="0.003" asserts="29" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromAbbreviation" executed="True" result="Success" success="True" time="0.002" asserts="40" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromAlias" executed="True" result="Success" success="True" time="0.001" asserts="6" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromMilitaryLetter" executed="True" result="Success" success="True" time="0.001" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromMilitaryName" executed="True" result="Success" success="True" time="0.001" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromWin32Id" executed="True" result="Success" success="True" time="0.001" asserts="15" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetInstanceFromWin32Name" executed="True" result="Success" success="True" time="0.000" asserts="10" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetMilitaryNameFromLetter" executed="True" result="Success" success="True" time="0.001" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromAbbreviation" executed="True" result="Success" success="True" time="0.001" asserts="40" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromAlias" executed="True" result="Success" success="True" time="0.001" asserts="171" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromMilitaryLetter" executed="True" result="Success" success="True" time="0.001" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromMilitaryName" executed="True" result="Success" success="True" time="0.001" asserts="25" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromWin32Id" executed="True" result="Success" success="True" time="0.000" asserts="19" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetNameFromWin32Name" executed="True" result="Success" success="True" time="0.000" asserts="9" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.GetWin32NameFromWin32Id" executed="True" result="Success" success="True" time="0.001" asserts="13" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.IsDaylightSavingTimeOfEuropeWarsawIn2006" executed="True" result="Success" success="True" time="0.001" asserts="8" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.LookupName" executed="True" result="Success" success="True" time="0.001" asserts="30" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.MaxTimeOfAllTimeZones" executed="True" result="Success" success="True" time="1.301" asserts="594" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.NamesOfEuropeWarsaw" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.StandardAbbreviation" executed="True" result="Success" success="True" time="0.001" asserts="10" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.UtcOffsetsOfEuropeWarsawIn2006" executed="True" result="Success" success="True" time="0.001" asserts="6" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.Win32Id" executed="True" result="Success" success="True" time="0.001" asserts="15" />
+              <test-case name="TZ4NetTests.OlsonTimeZoneFixture.Win32Name" executed="True" result="Success" success="True" time="0.001" asserts="5" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
