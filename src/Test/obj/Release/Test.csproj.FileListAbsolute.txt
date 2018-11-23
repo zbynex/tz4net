@@ -1,0 +1,8 @@
+C:\Dev\tz4netv4-2013a\src\Test\bin\Release\Test.exe.config
+C:\Dev\tz4netv4-2013a\src\Test\bin\Release\Test.exe
+C:\Dev\tz4netv4-2013a\src\Test\bin\Release\Test.pdb
+C:\Dev\tz4netv4-2013a\src\Test\bin\Release\TZ4Net.dll
+C:\Dev\tz4netv4-2013a\src\Test\bin\Release\TZ4Net.xml
+C:\Dev\tz4netv4-2013a\src\Test\obj\Release\ResolveAssemblyReference.cache
+C:\Dev\tz4netv4-2013a\src\Test\obj\Release\Test.exe
+C:\Dev\tz4netv4-2013a\src\Test\obj\Release\Test.pdb
